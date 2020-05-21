@@ -1,0 +1,16 @@
+node_modules
+package-lock.json
+yarn.lock
+
+# logs & pids
+*.log
+pids
+
+.DS_Store
+
+dist
+.next
+
+
+.env
+.now
